@@ -6,8 +6,9 @@ Voor je aan de oefeningen begint, moet je deze repository ‘forken’ naar je e
 
 1. Klik op het **Fork** icoon (rechts bovenaan).
 2. (Kies je eigen gebruiker, als dat gevraagd wordt.)
-3. Als je de keuze krijgt, zorg je ervoor dat je repository private is.
-4. Ga naar je eigen Github profiel en open daar de repository git-test.
+3. **Zorg dat _Copy the main branch only_ uitgevinkt is!**
+4. Als je de keuze krijgt, zorg je ervoor dat je repository private is.
+5. Ga naar je eigen Github profiel en open daar de repository git-test.
 
 ## Vanaf je eigen fork
 
